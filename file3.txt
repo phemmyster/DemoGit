@@ -1,1 +1,2 @@
 This is another file from branch name feature1
+new line
